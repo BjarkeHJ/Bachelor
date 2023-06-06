@@ -1,2 +1,2 @@
 # Bachelor
-Code and datasheets from Bachelor's project
+This GitHub repo contains code used in my bachelors project at Aarhus University at the department of electrical and computer engineering. 
