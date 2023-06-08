@@ -7,4 +7,4 @@ Contents:
   - Code used for magnetometer calibration, plotting and data analysis
   - Datasheets and manuals for the components used in the setup
 
-Bjarke Holm, 202004782@post.au.dk
+Bjarke Holm
